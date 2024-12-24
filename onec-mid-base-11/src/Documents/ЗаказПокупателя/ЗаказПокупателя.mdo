@@ -212,7 +212,7 @@
     <name>ДБ_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
-      <value>Д б согласованная скидка</value>
+      <value>Согласованная скидка</value>
     </synonym>
     <type>
       <types>Number</types>
